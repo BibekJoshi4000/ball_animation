@@ -21,7 +21,7 @@ This program utilizes the Turtle graphics library to create an animated scene. F
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/BibekJoshi4000/ball_animation.git
+   https://github.com/BibekJoshi4000/ball_animation.git
    
 2. Navigate to the repository directory:
 
