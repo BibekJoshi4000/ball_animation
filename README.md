@@ -3,7 +3,7 @@
 This is my first attempt at creating an animation using the Turtle graphics library in Python. The program creates a simple animation with four colored circles bouncing around the screen.
 
 <p align="center">
-  <img src="https://github.com/BibekJoshi4000/ball_animation/assets/97554714/79e85cc2-8f32-4cdc-b414-e59312609215" alt="Program Output">
+  <img src="https://github.com/BibekJoshi4000/ball_animation/assets/97554714/79e85cc2-8f32-4cdc-b414-e59312609215" alt="Program Output" width="640px" height="480px">
 </p>
 
 ## Description
